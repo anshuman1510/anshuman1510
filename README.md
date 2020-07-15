@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+<img src="https://i.ibb.co/JB2mrvS/Mardigrastocat.png" alt="Mardigrastocat" border="0" height="300" width="300">
+</p>
 
-<!--
-**anshuman1510/anshuman1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋 I am Anshuman ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉  I am currently working on Machine Learning Projects 😎
+
+👉  I am learning in Computer Science and Engineering 🙂
+
+👉. I am looking forward to community collaboration 🤝
+
+👉. Reach me at: https://www.linkedin.com/in/anshuman-g-436368188 📨
+
+👉 Pronouns: He/Him 🧒
+
+
